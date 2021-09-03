@@ -11,11 +11,11 @@ The Environmental Protection Agency data is collected from the U.S. Department o
 ### Metadata or data dictionary: https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle
 
 ### Libraries used:
-• Pandas (for data loading and analysis)
-• NumPy (for computing)
-• Matplotlib (for visualizations)
-• Seaborn (for visualizations)
-• Jupyter (to run notebooks)
+- Pandas (for data loading and analysis)
+- NumPy (for computing)
+- Matplotlib (for visualizations)
+- Seaborn (for visualizations)
+- Jupyter (to run notebooks)
 
 ### Research questions:
 In this project, I will answer various questions related to various features of vehicles dataset and their correlation with Ucity( miles per gallon)
@@ -34,10 +34,23 @@ In this project, I will answer various questions related to various features of 
 
 In the project, you will also see 
 ### K Fold Cross Validation
-Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. • Used 10-fold Cross-Validation to train these models.
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. Used 10-fold Cross-Validation to train these models.
 Models to evaluate are 
-• Random Forest Model 
-• Decision tree Model
+- Random Forest Model 
+- Decision tree Model
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
