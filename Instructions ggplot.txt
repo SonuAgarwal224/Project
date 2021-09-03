@@ -1,0 +1,31 @@
+During the libraries, there are chances of errors related to ggplot, so for that I install the ggplot packages.
+also, I changed two things in the anaconda files for updatin the libraries:
+
+1. Changed in stats/smoothers.py
+anaconda3/Lib/site-packages/ggplot/stats
+
+**remove lib
+from pandas.lib import Timestamp
+Change to
+from pandas import Timestamp
+
+**if needed, remove tslib:
+
+date_types = (
+    pd.tslib.Timestamp,
+to
+date_types = (
+    pd.Timestamp,
+
+
+2.changed in anaconda3/Lib/site-packages/ggplot/utils.py
+
+**add underscore in second line before tslib
+
+date_types = (
+    pd._tslib.Timestamp,
+    pd.DatetimeIndex,
+    pd.Period,
+    pd.PeriodIndex,
+    datetime.datetime,
+    datetime.time
