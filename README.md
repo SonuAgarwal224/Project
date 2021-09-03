@@ -19,8 +19,8 @@ The Environmental Protection Agency data is collected from the U.S. Department o
 
 ### Research questions:
 In this project, I will answer various questions related to various features of vehicles dataset and their correlation with Ucity( miles per gallon)
-Which fuel types are commonly used in the automobiles?
-Count of cars with automatic and manual transmission?
+- Which fuel types are commonly used in the automobiles?
+- Count of cars with automatic and manual transmission?
 Most frequent brands of car used?
 Most common class type of cars used?
 Most common fuel type used?
