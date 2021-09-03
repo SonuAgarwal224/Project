@@ -21,15 +21,15 @@ The Environmental Protection Agency data is collected from the U.S. Department o
 In this project, I will answer various questions related to various features of vehicles dataset and their correlation with Ucity( miles per gallon)
 - Which fuel types are commonly used in the automobiles?
 - Count of cars with automatic and manual transmission?
-Most frequent brands of car used?
-Most common class type of cars used?
-Most common fuel type used?
-Most common wheeldrive used?
-Unique model counts increased over the years?
-Which cars have the highest Ucity average?
-Comparison of Ucity for fuel type1 and fueltype2?
-Which engine size type was most popular over the years?
-How does the size of a car engine affect its fuel consumption?
+- Most frequent brands of car used?
+- Most common class type of cars used?
+- Most common fuel type used?
+- Most common wheeldrive used?
+- Unique model counts increased over the years?
+- Which cars have the highest Ucity average?
+- Comparison of Ucity for fuel type1 and fueltype2?
+- Which engine size type was most popular over the years?
+- How does the size of a car engine affect its fuel consumption?
 
 
 In the project, you will also see 
